@@ -18,8 +18,9 @@ a{
  top:70px;
 }
 
-h1 {
+h1,h2 {
   color:#734e30;
+  font-size:15px
 }
 body {
   background-color:#fad7b38c;
