@@ -14,7 +14,8 @@ a{
   text-transform:uppearcase;
 }
 .box1{
- top:100px;
+ position:relative;
+ top:70px;
 }
 
 h1 {
