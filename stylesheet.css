@@ -23,13 +23,9 @@ h5.{
   font-size:30px;
   margin-left:10px;
 }
-h1,h2.box1 {
+.box1 h1,h2,h3,h4 {
   color:#734e30;
   font-size:15px
-}
-h3,h4.box1{
-  color:#734e30;
-  font-size:15px;
 }
 body {
   background-color:#fad7b38c;
