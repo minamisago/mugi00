@@ -1,3 +1,16 @@
+header{
+  z_index:10px;
+  height:64px;
+  position:absolute;
+  top:300px;
+  background-color:#333;
+  width:100%;
+  text]align:center;
+  z-index:2;
+}
+
+
+
 h1 {
   color:#734e30;
 }
