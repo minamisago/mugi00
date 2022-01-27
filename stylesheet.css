@@ -1,12 +1,13 @@
 header{
-  z_index:10px;
+  z_index:0px;
   height:10pxpx;
   position:fixed;
   top:0px;
   background-color:#faf0e6;
   width:100%;
-  text]align:center;
-  z-index:2;
+  textalign:center;
+  z-index:auto;
+  margin-left:-7px
 }
 a{
   color:#fff;
