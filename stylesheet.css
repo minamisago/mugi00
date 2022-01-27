@@ -22,9 +22,13 @@ h1.miz{
   color:#734e30;
   font-size:20px;
 }
-h1,h2,h3,h4.box1 {
+h1,h2,h3.box1 {
   color:#734e30;
   font-size:15px
+}
+h4.box1{
+  color:#734e30;
+  font-size:15px;
 }
 body {
   background-color:#fad7b38c;
