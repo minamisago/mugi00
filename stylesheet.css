@@ -23,11 +23,11 @@ h5.{
   font-size:30px;
   margin-left:10px;
 }
-h1,h2,h3.box1 {
+h1,h2.box1 {
   color:#734e30;
   font-size:15px
 }
-h4.box1{
+h3,h4.box1{
   color:#734e30;
   font-size:15px;
 }
@@ -35,9 +35,4 @@ body {
   background-color:#fad7b38c;
 }
 
-<style type="text/css">
-p{position:relatifve:
-  top 300px;
-  font-color:#333;
-  font-size:15px;
-}
+
