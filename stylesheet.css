@@ -14,8 +14,8 @@ a{
   text-transform:uppearcase;
 }
 .box1{
- position:relative;
  top:70px;
+  margin-top:80px;
 }
 
 .miz h5 {
